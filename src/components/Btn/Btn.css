@@ -1,0 +1,15 @@
+button{
+    background-color: rgb(33, 37, 36);
+    color: aqua;
+    border: 1px solid;
+    border-radius: 5px;
+    border-color: aqua;
+    text-decoration: none;
+    font-size: 16px;
+    text-align: center;
+    transition: 0.5s;
+}
+button:hover {
+    transition: 0.5s;
+    box-shadow: 0 12px 16px 0 rgba(33, 197, 129, 0.671), 0 17px 50px 0 rgba(33, 197, 129, 0.671);
+}
